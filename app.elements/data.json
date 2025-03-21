@@ -1,0 +1,391 @@
+{
+  "social" : {
+    "useSocialTags" : true
+  },
+  "theme" : {
+    "colors" : [
+
+    ],
+    "shadows" : [
+
+    ],
+    "typographies" : [
+
+    ],
+    "borderRadius" : [
+
+    ],
+    "spacing" : [
+
+    ],
+    "screens" : [
+      {
+        "sfIcon" : "desktopcomputer",
+        "pixels" : 1536,
+        "enabled" : false,
+        "id" : "D0DE234D-5A62-433E-93DA-D1A029D7E1E4",
+        "maxContainerWidth" : 0,
+        "units" : "auto",
+        "description" : "",
+        "classPrefix" : "2xl",
+        "name" : "2xl"
+      },
+      {
+        "sfIcon" : "laptopcomputer",
+        "pixels" : 1280,
+        "enabled" : false,
+        "id" : "11E3961D-B189-41AC-A4C7-469E7863861C",
+        "maxContainerWidth" : 0,
+        "units" : "auto",
+        "description" : "",
+        "classPrefix" : "xl",
+        "name" : "xl"
+      },
+      {
+        "sfIcon" : "ipad.landscape",
+        "pixels" : 1024,
+        "enabled" : true,
+        "id" : "B5988E58-DC7B-450C-958F-2D705248444D",
+        "maxContainerWidth" : 0,
+        "units" : "auto",
+        "description" : "",
+        "classPrefix" : "lg",
+        "name" : "lg"
+      },
+      {
+        "sfIcon" : "ipad",
+        "pixels" : 768,
+        "enabled" : true,
+        "id" : "A65BFEB0-020E-468E-8835-F3333FFB8B6A",
+        "maxContainerWidth" : 0,
+        "units" : "auto",
+        "description" : "This breakpoint is for tablets and small laptop screens. It usually encompasses widths from 600 pixels to 1023 pixels.",
+        "classPrefix" : "md",
+        "name" : "md"
+      },
+      {
+        "sfIcon" : "iphone.landscape",
+        "pixels" : 640,
+        "enabled" : true,
+        "id" : "EA10B297-D015-4A7C-9450-AF1F77FAA178",
+        "maxContainerWidth" : 0,
+        "units" : "auto",
+        "description" : "This breakpoint targets devices with small sceens like smartphones. The resolution width varies but typically starts from 320 pixels and below 600 pixels.",
+        "classPrefix" : "sm",
+        "name" : "sm"
+      },
+      {
+        "sfIcon" : "iphone",
+        "pixels" : 0,
+        "enabled" : true,
+        "id" : "AB1B4CA8-6F9A-4807-9D78-DC98C5785CC0",
+        "maxContainerWidth" : 0,
+        "units" : "auto",
+        "description" : "",
+        "classPrefix" : "",
+        "name" : "mobile"
+      }
+    ],
+    "fontStyle" : [
+
+    ],
+    "baseThemeIdentifier" : "com.realmacsoftware.themes.system",
+    "fontFamily" : [
+
+    ],
+    "textShadows" : [
+
+    ],
+    "borderWidth" : [
+
+    ]
+  },
+  "version" : 9,
+  "project" : {
+    "uniqueBackupName" : "B25B1948-5C89-4B44-9A68-19F64F437A8B_rwbackup",
+    "autoStartWebServer" : false
+  },
+  "localization" : {
+
+  },
+  "ui" : {
+    "contentArea" : {
+      "size" : [
+        1024,
+        272
+      ],
+      "darkAppearance" : false,
+      "scale" : 0.5537109375,
+      "responsiveSize" : "lg"
+    },
+    "resourceInspector" : {
+      "show" : false
+    },
+    "catalogFilter" : {
+      "smartDocumentElements" : false,
+      "showFavourites" : false
+    },
+    "elementEditor" : {
+      "show" : false,
+      "showOutline" : false
+    },
+    "projectInspector" : {
+      "show" : false
+    }
+  },
+  "identifier" : "63CB1E2B-3D74-4F45-B137-4BA6D90174EB",
+  "publishing" : {
+    "publishSettingsConfigured" : false,
+    "publishingDestinations" : [
+
+    ]
+  },
+  "siteResources" : {
+    "children" : {
+      "734ADBE7-40FC-42AE-ACE3-4099E6B2A753" : [
+        "00FB0C5A-9F71-4933-87FC-461A255F1A3C"
+      ]
+    },
+    "resources" : {
+      "734ADBE7-40FC-42AE-ACE3-4099E6B2A753" : {
+        "expanded" : true,
+        "hostedImageURLs" : [
+
+        ],
+        "changedStatuses" : {
+
+        },
+        "timeStamp" : -62135769600000,
+        "identifier" : "734ADBE7-40FC-42AE-ACE3-4099E6B2A753",
+        "smartFolderKind" : 0,
+        "kind" : 0,
+        "name" : "Resources"
+      },
+      "00FB0C5A-9F71-4933-87FC-461A255F1A3C" : {
+        "timeStamp" : 1742369783024.2004,
+        "changedStatuses" : {
+
+        },
+        "originalName" : "208160_tiny.mp4",
+        "parentIdentifier" : "734ADBE7-40FC-42AE-ACE3-4099E6B2A753",
+        "hostedImageURLs" : [
+
+        ],
+        "isSVG" : false,
+        "identifier" : "00FB0C5A-9F71-4933-87FC-461A255F1A3C",
+        "expanded" : true,
+        "smartFolderKind" : 0,
+        "kind" : 1,
+        "typeIdentifier" : "public.mpeg-4",
+        "name" : "208160_tiny.mp4"
+      }
+    },
+    "root" : "734ADBE7-40FC-42AE-ACE3-4099E6B2A753"
+  },
+  "rootPage" : {
+    "createdDate" : 1742524791236.5132,
+    "title" : "root",
+    "browserTitle" : null,
+    "identifier" : "FAA82E0D-CA83-4D01-B4B0-15B0A80E3656",
+    "expanded" : true,
+    "children" : [
+      {
+        "createdDate" : 1742524791264.8977,
+        "title" : "Home",
+        "browserTitle" : null,
+        "identifier" : "F83CC05A-DFA2-4A17-B7FA-2A3364675D7B",
+        "expanded" : true,
+        "children" : [
+
+        ],
+        "uniqueID" : "page0",
+        "attributes" : {
+          "customHeadEnd" : "",
+          "useCustomSlogan" : false,
+          "expiryQuantity" : 2,
+          "useCustomSiteTitle" : false,
+          "useCustomCopyright" : false,
+          "customPageStart" : "",
+          "hidden" : false,
+          "customHeadStart" : "",
+          "customBodyEnd" : "",
+          "customJavaScript" : "",
+          "customCopyright" : "",
+          "customSiteTitle" : "",
+          "shouldFollowLinks" : true,
+          "customSlogan" : "",
+          "linkOpensInNewWindow" : false,
+          "shouldIndexPage" : true,
+          "filename" : "index.html",
+          "encoding" : 1,
+          "customCSS" : "",
+          "enabled" : true,
+          "customPageEnd" : "",
+          "expires" : false,
+          "customHeader" : "",
+          "changedStatuses" : {
+            "default" : true
+          },
+          "credit" : true,
+          "expiryUnit" : 0,
+          "shouldEnableRobotTags" : true,
+          "lastChangedDate" : 1742525120245.3999,
+          "customBodyStart" : "",
+          "shouldEnableSocialTags" : true
+        },
+        "pageDescription" : null,
+        "kind" : "page",
+        "iconIdentifier" : null,
+        "isIndex" : true
+      },
+      {
+        "createdDate" : 1742524899684.1179,
+        "title" : "About",
+        "browserTitle" : null,
+        "identifier" : "E3C2FD09-6A5E-4519-BFB6-A502652C6F98",
+        "expanded" : true,
+        "children" : [
+
+        ],
+        "uniqueID" : "page1",
+        "attributes" : {
+          "customHeadEnd" : "",
+          "useCustomSlogan" : false,
+          "expiryQuantity" : 2,
+          "useCustomSiteTitle" : false,
+          "useCustomCopyright" : false,
+          "customPageStart" : "",
+          "hidden" : false,
+          "customHeadStart" : "",
+          "customBodyEnd" : "",
+          "customJavaScript" : "",
+          "customSlogan" : "",
+          "customSiteTitle" : "",
+          "shouldFollowLinks" : true,
+          "customCopyright" : "",
+          "linkOpensInNewWindow" : false,
+          "shouldIndexPage" : true,
+          "filename" : "index.html",
+          "encoding" : 1,
+          "customCSS" : "",
+          "enabled" : true,
+          "foldername" : "page",
+          "customPageEnd" : "",
+          "expires" : false,
+          "customHeader" : "",
+          "changedStatuses" : {
+            "default" : true
+          },
+          "credit" : true,
+          "expiryUnit" : 0,
+          "shouldEnableRobotTags" : true,
+          "lastChangedDate" : 1742525001204.969,
+          "customBodyStart" : "",
+          "shouldEnableSocialTags" : true
+        },
+        "pageDescription" : null,
+        "kind" : "page",
+        "iconIdentifier" : null,
+        "isIndex" : false
+      }
+    ],
+    "uniqueID" : "",
+    "attributes" : {
+      "customHeadEnd" : "",
+      "useCustomSlogan" : false,
+      "expiryQuantity" : 2,
+      "useCustomSiteTitle" : false,
+      "useCustomCopyright" : false,
+      "customPageStart" : "",
+      "hidden" : false,
+      "customHeadStart" : "",
+      "customBodyEnd" : "",
+      "customJavaScript" : "",
+      "customCopyright" : "",
+      "customSiteTitle" : "",
+      "shouldFollowLinks" : true,
+      "customSlogan" : "",
+      "linkOpensInNewWindow" : false,
+      "shouldIndexPage" : true,
+      "filename" : "",
+      "encoding" : 1,
+      "customCSS" : "",
+      "enabled" : true,
+      "customPageEnd" : "",
+      "expires" : false,
+      "customHeader" : "",
+      "changedStatuses" : {
+
+      },
+      "credit" : true,
+      "expiryUnit" : 0,
+      "shouldEnableRobotTags" : true,
+      "lastChangedDate" : 1742524791235.2148,
+      "customBodyStart" : "",
+      "shouldEnableSocialTags" : true
+    },
+    "pageDescription" : null,
+    "kind" : "folder",
+    "iconIdentifier" : null,
+    "isIndex" : false
+  },
+  "site" : {
+    "wantsXMLSiteMap" : true,
+    "themeName" : "Elements",
+    "useCacheBusting" : true,
+    "commonFileConsolidationMode" : 0,
+    "allowDarkMode" : false,
+    "defaultFileExtension" : "html",
+    "title" : "My Website",
+    "consolidateCSSFiles" : true,
+    "minifyExtraFiles" : true,
+    "baseURL" : "",
+    "cruftlessLinks" : true
+  },
+  "images" : {
+    "logoAltText" : "",
+    "webIcons" : {
+      "medium" : {
+        "autoGenerate" : false,
+        "type" : 1
+      },
+      "large" : {
+        "autoGenerate" : false,
+        "type" : 0
+      },
+      "small" : {
+        "autoGenerate" : false,
+        "type" : 2
+      },
+      "faviconSmall" : {
+        "autoGenerate" : false,
+        "type" : 6
+      },
+      "faviconLarge" : {
+        "autoGenerate" : false,
+        "type" : 4
+      },
+      "pinnedTab" : {
+        "autoGenerate" : false,
+        "type" : 3
+      },
+      "faviconMedium" : {
+        "autoGenerate" : false,
+        "type" : 5
+      }
+    }
+  },
+  "privacy" : {
+    "anonymiseThirdPartyRequests" : false
+  },
+  "globalElements" : {
+    "globals" : {
+
+    }
+  },
+  "customComponents" : {
+    "components" : {
+
+    }
+  }
+}
