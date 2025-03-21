@@ -111,12 +111,12 @@
   "ui" : {
     "contentArea" : {
       "size" : [
-        1024,
-        272
+        768,
+        510
       ],
       "darkAppearance" : false,
-      "scale" : 0.5537109375,
-      "responsiveSize" : "lg"
+      "scale" : 0.50390625,
+      "responsiveSize" : "md"
     },
     "resourceInspector" : {
       "show" : false
@@ -143,7 +143,7 @@
   "siteResources" : {
     "children" : {
       "734ADBE7-40FC-42AE-ACE3-4099E6B2A753" : [
-        "00FB0C5A-9F71-4933-87FC-461A255F1A3C"
+
       ]
     },
     "resources" : {
@@ -160,24 +160,6 @@
         "smartFolderKind" : 0,
         "kind" : 0,
         "name" : "Resources"
-      },
-      "00FB0C5A-9F71-4933-87FC-461A255F1A3C" : {
-        "timeStamp" : 1742369783024.2004,
-        "changedStatuses" : {
-
-        },
-        "originalName" : "208160_tiny.mp4",
-        "parentIdentifier" : "734ADBE7-40FC-42AE-ACE3-4099E6B2A753",
-        "hostedImageURLs" : [
-
-        ],
-        "isSVG" : false,
-        "identifier" : "00FB0C5A-9F71-4933-87FC-461A255F1A3C",
-        "expanded" : true,
-        "smartFolderKind" : 0,
-        "kind" : 1,
-        "typeIdentifier" : "public.mpeg-4",
-        "name" : "208160_tiny.mp4"
       }
     },
     "root" : "734ADBE7-40FC-42AE-ACE3-4099E6B2A753"
@@ -229,7 +211,7 @@
           "credit" : true,
           "expiryUnit" : 0,
           "shouldEnableRobotTags" : true,
-          "lastChangedDate" : 1742525120245.3999,
+          "lastChangedDate" : 1742531774403.2422,
           "customBodyStart" : "",
           "shouldEnableSocialTags" : true
         },
@@ -279,7 +261,7 @@
           "credit" : true,
           "expiryUnit" : 0,
           "shouldEnableRobotTags" : true,
-          "lastChangedDate" : 1742525001204.969,
+          "lastChangedDate" : 1742531774403.2832,
           "customBodyStart" : "",
           "shouldEnableSocialTags" : true
         },
